@@ -1,4 +1,4 @@
---Hello and welcome to this SQL project using hotel Data 
+--Hello and welcome to this SQL project
 
 --Questions that will be answered 
 
